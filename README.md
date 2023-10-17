@@ -19,4 +19,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=logerys&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logerys&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="logerys" />
+</p>
